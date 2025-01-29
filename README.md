@@ -1,7 +1,10 @@
-<h1 align="center" style="color: #FF3366;"> 👩🏽‍💻 Olá, meu nome é Isabelle Brandão!</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/👩🏽‍💻%20Olá,%20meu%20nome%20é%20Isabelle%20Brandão-000000?style=flat-square&labelColor=FF3366&color=FF3366&logoColor=white" alt="Olá, meu nome é Isabelle Brandão" width="600">
+</p>
+
 
 <p align="center">
-  🚀 **Desenvolvedora Back-end** | 🌍 **Apaixonada por tecnologia e inovação**  
+  🚀 Desenvolvedora FullStack | 🌍 Apaixonada por tecnologia e inovação 
 </p>
 
 <p align="center">
@@ -9,11 +12,13 @@
 </p>
 
 ## ✨ Sobre Mim
-Sou uma desenvolvedora back-end com 4 anos de experiência em PHP e 3 anos em Java, especializada na criação de APIs RESTful, sistemas web e arquitetura MVC. Minha paixão pela tecnologia me impulsiona a buscar soluções eficientes e escaláveis, garantindo sempre a melhor experiência para os usuários.
+
+Sou uma desenvolvedora back-end com 4 anos de experiência em PHP e 3 anos em Java, especializada na criação de APIs RESTful, sistemas web e arquitetura MVC.
+Minha paixão por tecnologia me motiva a criar soluções inteligentes e escaláveis, transformando desafios em códigos bem estruturados e garantindo que os usuários tenham uma experiência fluida e sem dores de cabeça!
 
 ---
 
-## 🚀 Tecnologias & Ferramentas  
+## 🚀 Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -31,16 +36,13 @@ Sou uma desenvolvedora back-end com 4 anos de experiência em PHP e 3 anos em Ja
 
 ---
 
-## 📫 Onde me encontrar?  
+## 📫 Onde me encontrar?
 
 📧 E-mail: **isabellebrandao@outlook.com**  
-💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil/)  
-🌎 Portfólio: [Seu Site](https://seusite.com)
+💼 LinkedIn: https://www.linkedin.com/in/isabelle-brand%C3%A3o-615039220/
 
 <p align="center">
   <img src="https://media.giphy.com/media/l2JehQ2GitHGdVG9y/giphy.gif" width="300px">
 </p>
 
 ---
-
-
