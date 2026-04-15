@@ -49,6 +49,6 @@ Minha abordagem é pautada pela **Engenharia de Software Pragmática**: priorizo
 ### 📫 Contato Profissional
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isabelle-brandão-615039220)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabellebrandao@outlook.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isabellebrandaoo44@gmail.com)
 
 📍 São Paulo, SP
